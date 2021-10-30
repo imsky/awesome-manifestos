@@ -55,6 +55,9 @@
 **[The NoJS Club](https://nojs.club/)** by [Karan Goel](https://goel.io/)<br>
   > Not all websites need Javascript to be beautiful and usable.
 
+**[NoYAML](https://noyaml.com/)** by [Geoffrey Huntley](https://ghuntley.com/)<br>
+  > Anyone who uses YAML long enough will eventually get burned
+
 ## Contributing
 
 Contributions are always welcome, feel free to open a PR!
