@@ -19,6 +19,9 @@
 **[The Twelve-Factor App](https://12factor.net/)** by [Adam Wiggins](https://adamwiggins.com/)<br>
   > This document synthesizes all of our experience and observations on a wide variety of software-as-a-service apps in the wild.
 
+**[The Rails Doctrine](https://rubyonrails.org/doctrine/)** by [David Heinemeier Hansson](https://dhh.dk/)<br>
+  > The chief accomplishment of Rails was to unite and cultivate a strong tribe around a wide set of heretical thoughts about the nature of programming and programmers.
+
 **[Immutable Web Apps](https://immutablewebapps.org/)** by [Gene Connolly](https://twitter.com/geneconnolly)<br>
   > Immutable Web Applications are generated once and published once to a permanent location.
 
