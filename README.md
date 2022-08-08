@@ -55,6 +55,9 @@
 **[The Software Defined Delivery Manifesto](https://sdd-manifesto.org/)** by [Christian Dupuis](https://twitter.com/cdupuis)<br>
   > Delivery infrastructure is now programmable, and we will program it.
 
+**[Stop breaking the Web](https://eightsquaredsoftware.com/articles/web.html)** by [Derek Schaab](https://eightsquaredsoftware.com/articles/web.html)<br>
+  > Rather than chasing after the latest features available only to those living on the bleeding edge of browser support, we should invest in making our creations open to all, consumable by all, and welcoming to all.
+
 **[The NoJS Club](https://nojs.club/)** by [Karan Goel](https://goel.io/)<br>
   > Not all websites need Javascript to be beautiful and usable.
 
