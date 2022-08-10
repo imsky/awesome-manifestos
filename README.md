@@ -37,6 +37,9 @@
 **[Conventional Commits](https://www.conventionalcommits.org)** by [Damiano Petrungaro](https://www.damianopetrungaro.com/) and [Ben Coe](https://twitter.com/benjamincoe)<br>
   > The Conventional Commits specification is a lightweight convention on top of commit messages.
 
+**[System Font Stack](https://systemfontstack.com/)** by [Tom MacWright](https://macwright.com/)<br>
+  > Webfonts were great when most computers only had a handful of good fonts pre-installed.
+
 **[Semantic Versioning](https://semver.org/)** by [Tom Preston-Werner](https://tom.preston-werner.com/)<br>
   > Under this scheme, version numbers and the way they change convey meaning about the underlying code and what has been modified from one version to the next.
 
