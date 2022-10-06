@@ -31,6 +31,8 @@
 **[Frameworkless movement](https://www.frameworklessmovement.org/)** by [Francesco Strazzullo](https://www.francescostrazzullo.info/)<br>
   > Every time a team uses a framework, it also takes a risk.
 
+**[Always Own Your Platform](http://www.alwaysownyourplatform.com/)** by [Sean Blanda](https://www.seanblanda.com/)<br>
+  > Stop giving away your work to people who don't care about it. Host it yourself. Distribute it via methods you control. Build your audience deliberately and on your own terms.
 **[Against software development](http://www.rntz.net/post/against-software-development.html)** by [Michael Arntzenius](http://www.rntz.net/)<br>
   > These days, for better or worse, software defines everyone's reality. Let's build one worth living in.
 
