@@ -33,6 +33,10 @@
 
 **[Always Own Your Platform](http://www.alwaysownyourplatform.com/)** by [Sean Blanda](https://www.seanblanda.com/)<br>
   > Stop giving away your work to people who don't care about it. Host it yourself. Distribute it via methods you control. Build your audience deliberately and on your own terms.
+
+**[Functional Web App](https://fwa.dev/)** by LeRoux and Block<br>
+  > Functional Web App (FWA)...empowers developers with the flexibility of dynamic, full-stack applications paired with the ease of scaling a static website.
+
 **[Against software development](http://www.rntz.net/post/against-software-development.html)** by [Michael Arntzenius](http://www.rntz.net/)<br>
   > These days, for better or worse, software defines everyone's reality. Let's build one worth living in.
 
