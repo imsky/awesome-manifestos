@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fimsky%2Fawesome-manifestos&via=imskyco&text=Awesome%20Software%20Manifestos)
 
-**A collection of awesome software manifestos.**
+**A collection of software manifestos.**
 
 **[Choose Boring Technology](http://boringtechnology.club/)** by [Dan McKinley](https://mcfunley.com/)<br>
   > We should generally pick the smallest set of tech that covers our problem domain, and lets us get the job done.
@@ -24,6 +24,9 @@
 
 **[Immutable Web Apps](https://immutablewebapps.org/)** by [Gene Connolly](https://twitter.com/geneconnolly)<br>
   > Immutable Web Applications are generated once and published once to a permanent location.
+
+**[Local-first software](https://www.inkandswitch.com/local-first/)** by [Kleppmann](https://martin.kleppmann.com/), [Wiggins](https://adamwiggins.com/), [van Hardenberg](https://twitter.com/pvh), and [McGranaghan](https://markmcgranaghan.com/)<br>
+  > Cloud services defy long-term preservation. No Wayback Machine can restore a sunsetted web application.
 
 **[Frameworkless movement](https://www.frameworklessmovement.org/)** by [Francesco Strazzullo](https://www.francescostrazzullo.info/)<br>
   > Every time a team uses a framework, it also takes a risk.
