@@ -2,7 +2,10 @@
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fimsky%2Fawesome-manifestos&via=imskyco&text=Awesome%20Software%20Manifestos)
 
-**A collection of software manifestos.**
+**A collection of awesome manifestos.**
+
+**[Ten Principles for Good Design](https://tenprinciples.design)** by Dieter Rams<br>
+  > Good design is as little design as possible
 
 **[Choose Boring Technology](http://boringtechnology.club/)** by [Dan McKinley](https://mcfunley.com/)<br>
   > We should generally pick the smallest set of tech that covers our problem domain, and lets us get the job done.
