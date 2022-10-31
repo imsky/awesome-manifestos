@@ -37,6 +37,9 @@
 **[Always Own Your Platform](http://www.alwaysownyourplatform.com/)** by [Sean Blanda](https://www.seanblanda.com/)<br>
   > Stop giving away your work to people who don't care about it. Host it yourself. Distribute it via methods you control. Build your audience deliberately and on your own terms.
 
+**[Publish on your Own Site, Syndicate Elsewhere (POSSE)](https://indieweb.org/POSSE)** by [IndieWeb](https://indieweb.org)<br>
+  > POSSE is an abbreviation for Publish (on your) Own Site, Syndicate Elsewhere, the practice of posting content on your own site first, then publishing copies or sharing links to third parties (like social media silos) with original post links to provide viewers a path to directly interacting with your content.
+
 **[Functional Web App](https://fwa.dev/)** by LeRoux and Block<br>
   > Functional Web App (FWA)...empowers developers with the flexibility of dynamic, full-stack applications paired with the ease of scaling a static website.
 
