@@ -25,6 +25,15 @@
 **[The Rails Doctrine](https://rubyonrails.org/doctrine/)** by [David Heinemeier Hansson](https://dhh.dk/)<br>
   > The chief accomplishment of Rails was to unite and cultivate a strong tribe around a wide set of heretical thoughts about the nature of programming and programmers.
 
+**[HTML First](https://html-first.com/)** by [Tony Ennis](https://www.tonyennis.com/)<br>
+  > The main goal of HTML First is to substantially widen the pool of people who can work on web software codebases.
+
+**[The NoJS Club](https://nojs.club/)** by [Karan Goel](https://goel.io/)<br>
+  > Not all websites need Javascript to be beautiful and usable.
+
+**[NoYAML](https://noyaml.com/)** by [Geoffrey Huntley](https://ghuntley.com/)<br>
+  > Anyone who uses YAML long enough will eventually get burned
+
 **[Immutable Web Apps](https://immutablewebapps.org/)** by [Gene Connolly](https://twitter.com/geneconnolly)<br>
   > Immutable Web Applications are generated once and published once to a permanent location.
 
@@ -48,6 +57,9 @@
 
 **[Trunk Based Development](https://trunkbaseddevelopment.com/)** by [Paul Hammant](https://paulhammant.com/)<br>
   > Trunk-Based Development is a key enabler of Continuous Integration and by extension Continuous Delivery.
+
+**[The stacking workflow](https://stacking.dev/)** by [Greg Foster](https://www.gregfoster.dev/)<br>
+  > Stacking parallelizes your development and code review workstreams, so you don't need to wait for your previous changes to be merged before building on top of them.
 
 **[Conventional Commits](https://www.conventionalcommits.org)** by [Damiano Petrungaro](https://www.damianopetrungaro.com/) and [Ben Coe](https://twitter.com/benjamincoe)<br>
   > The Conventional Commits specification is a lightweight convention on top of commit messages.
@@ -75,12 +87,6 @@
 
 **[Stop breaking the Web](https://eightsquaredsoftware.com/articles/web.html)** by [Derek Schaab](https://eightsquaredsoftware.com/articles/web.html)<br>
   > Rather than chasing after the latest features available only to those living on the bleeding edge of browser support, we should invest in making our creations open to all, consumable by all, and welcoming to all.
-
-**[The NoJS Club](https://nojs.club/)** by [Karan Goel](https://goel.io/)<br>
-  > Not all websites need Javascript to be beautiful and usable.
-
-**[NoYAML](https://noyaml.com/)** by [Geoffrey Huntley](https://ghuntley.com/)<br>
-  > Anyone who uses YAML long enough will eventually get burned
 
 ## Contributing
 
